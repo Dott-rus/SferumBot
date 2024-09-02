@@ -20,7 +20,7 @@ The packages that this application runs on
 #### Install app
 Clone repository:
 ```
-git clone https://github.com/xKARASb/SferumBot.git
+git clone https://github.com/Dott-rus/SferumBot.git
 cd ./SferumBot
 ```
 Setup eviroment
